@@ -1,5 +1,4 @@
-The rainbow and the unicorn
-
+The rainbow and the unicorn and pony
 purple 
 red
 rose red
@@ -9,3 +8,5 @@ indigo
 ocean blue
 sun red
 and the unicorn
+
+and the ponies
