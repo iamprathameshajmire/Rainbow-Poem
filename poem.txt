@@ -4,5 +4,6 @@ purple
 red
 rose red
 green
+yellow
 ocean blue
 sun red
