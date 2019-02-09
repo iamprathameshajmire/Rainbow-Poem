@@ -12,4 +12,4 @@ change 2
 sun red
 and the unicorn
 change 1
-and the ponies
+and the ponies.
