@@ -1,4 +1,4 @@
-The rainbow
+The rainbow and the unicorn
 
 purple 
 red
@@ -7,3 +7,4 @@ green
 yellow
 ocean blue
 sun red
+and the unicorn
