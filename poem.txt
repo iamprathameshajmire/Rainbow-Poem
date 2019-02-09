@@ -5,6 +5,7 @@ red
 rose red
 green
 yellow
+indigo
 ocean blue
 sun red
 and the unicorn
